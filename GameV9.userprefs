@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Completed/Scripts/BoardManager.cs">
+    <Files>
+      <File FileName="Assets/Completed/Scripts/PlayerManagement.cs" Line="23" Column="3" />
+      <File FileName="Assets/Completed/Scripts/GameManager.cs" Line="26" Column="23" />
+      <File FileName="Assets/Completed/Scripts/BoardManager.cs" Line="223" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2643aabd24cbd426ebae17d16e7713bb
+timeCreated: 1446528181
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - failpanel: {instanceID: 0}
+  - countText: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - eatFruitSound: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  - completeSound: {instanceID: 0}
+  - scoreTile: {fileID: 156782, guid: 2211bb3f32c8f4784aca4ead8796180e, type: 2}
+  - count_banana: {instanceID: 0}
+  - count_bean: {instanceID: 0}
+  - count_pear: {instanceID: 0}
+  - timerUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
